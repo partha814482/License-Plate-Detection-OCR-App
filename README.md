@@ -231,6 +231,10 @@ streamlit run app.py
 ----
 ## 🖥️ Application Screenshots
 <img width="1913" height="866" alt="Screenshot 2025-12-16 214431" src="https://github.com/user-attachments/assets/268a84d2-ad27-4fe1-aa82-2bca4a7ee095" />
+<img width="1909" height="865" alt="Screenshot 2025-12-16 214510" src="https://github.com/user-attachments/assets/46615347-4f5a-4848-b17f-209a33071ce0" />
+<img width="1919" height="858" alt="Screenshot 2025-12-16 214540" src="https://github.com/user-attachments/assets/94d50b91-8c4e-4ac5-ab76-5d96e56e25b8" />
+<img width="1918" height="867" alt="Screenshot 2025-12-16 214623" src="https://github.com/user-attachments/assets/79e59696-247d-4c44-bbdb-1ca3488da7fc" />
+
 
 ---
 
